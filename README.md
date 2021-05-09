@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-<!--
-**addds03/addds03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+[![Header](https://raw.githubusercontent.com/addds03/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+![](https://img.shields.io/badge/<Programming>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
+
+
+view rawmarkdown_icon hosted with ❤ by GitHub
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
