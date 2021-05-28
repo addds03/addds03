@@ -1,24 +1,12 @@
-### Hi there 👋
+### Hola, Addy here 👋
 
 
-
-[![Header](https://raw.githubusercontent.com/addds03/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-![](https://img.shields.io/badge/<Programming>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
-
-
-
-view rawmarkdown_icon hosted with ❤ by GitHub
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Spotify Data, analyzing my music streams. 
+- 🌱 I’m currently learning analytics in the sphere of marketing and sales.
+- 👯 I’m looking to collaborate on a kaggle competition.
+- 🤔 I’m looking for help with GCP.
+- 💬 Ask me about tableau or any stats realted stuff.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm not so fun.
+
