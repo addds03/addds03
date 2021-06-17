@@ -1,7 +1,7 @@
 ### Hola, Addy here 👋
 
 
-- 🔭 I’m currently working on Spotify Data, analyzing my music streams. 
+- 🔭 I’m currently improving my SQL and Google Cloud Platform Skills. 
 - 🌱 I’m currently learning analytics in the sphere of marketing and sales.
 - 👯 I’m looking to collaborate on a kaggle competition.
 - 🤔 I’m looking for help with GCP.
