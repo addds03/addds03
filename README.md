@@ -1,4 +1,4 @@
-### Hola, Addy here 👋
+![Aditya Gaikwad](https://user-images.githubusercontent.com/39771193/123193205-573e6800-d472-11eb-9b56-020804cb1a6e.png)
 
 
 - 🔭 I’m currently improving my SQL and Google Cloud Platform Skills. 
