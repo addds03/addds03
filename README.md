@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on a kaggle competition.
 - 🤔 I’m looking for help with Data Story Writing.
 - 💬 Ask me about tableau or any statistics related stuff.
-- 📫 How to reach me: ...
+- 📫 How to reach me: aditya.gaikwad3@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not so fun.
 
